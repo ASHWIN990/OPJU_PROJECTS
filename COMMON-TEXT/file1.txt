@@ -1,0 +1,75 @@
+DEEP LEARNING
+A new area of machine learning research, which has been
+introduced with the objective of moving machine learning
+closer to one of its original goals: Artificial Intelligence.
+Deep learning draws its roots from Neocognitron; an Artificial
+Neuron Network (ANN)
+NN) introduced by Kunihiko Fukushima
+in 1980. An ANN is an interconnected network of processing
+units emulating the network of neurons in the brain. The idea
+behind ANN was to develop a learning method by modeling
+the human brain. However, this method lost favor within the
+machine learning community owing to the fact that it required
+an impractical amount of time as well as a humungous amount
+of data to train the network parameters for any decent
+application. Deep learning is a method to train multi
+multi-layer
+(and
+and hence the word “deep”) ANN using little data. This is the
+reason why ANN is back in the game. Using an example to
+compare Machine Learning with Deep Learning, we can say
+that if a machine learning algorithm learns parts of a face like
+eyes and nose for face detection tasks, a deep learning
+algorithm will learn extra features like the distance between
+eyes and the length of the nose. Hence Deep Learning is a
+major step away from Shallow Learning Algorithms.
+The term deep learning gained traction in mid 2000s after the
+“vanishing gradient problem” responsible for causing a
+reduction in speed was solved in a publication by Geoffrey
+Hinton and Ruslan Salakhutdinov. They showed how a multi-
+layered feed forward neural network could be effectively
+retrained at a time, treating each layer in turn as an
+unsupervised restricted Boltzmann’s machine, then using
+supervised back-propagation for fine tuning.
+between the input and output layers. The extra layers give it
+added levels of abstraction, thus enhancing its modelling
+capability. The most popular kinds of Deep Learning models,
+are known as Convolutional Neural Nets (CNN), or simply
+ConvNets. These area type of feed-forward
+feed
+artificial neural
+network, extensively used in computer vision, where the
+individual neurons are tiled in such a way that they respond to
+overlapping regions in the visual field.
+field In recent times, CNNs
+have also been successfully applied to automatic speech
+recognition (ASR). Deep Belief Networks and Convolutional
+Deep Belief Networks are some other
+oth popular deep learning
+architectures in use.
+There are two disadvantages with DNNs. They are overfitting
+and computation time. Overfitting is when the DNN learns
+very specific details on the training data using its hidden
+layers. As a result, the DNN performs well if the training data
+is given as input, but poorly when the input data is different.
+This problem is solved by a method called "dropout"
+regularization where some units are randomly removed from
+the hidden layers during training. The matrix and vector
+computations required here are well suited for GPUs. Hence,
+we could speed up the computations by harnessing their
+enormous processing power.
+The figure below illustrates how categorizing of different
+images can be achieved using a deep learning model where
+every layer learns a single feature at a time. At the first layer it
+can learn the different edges; in the second, it could learn
+slightly more complex features like different parts of a face
+such as ears, noses and eyes. In the third layer it could learn
+even more complex features like the distance between eyes or
+face shapes. The final representations can be used in
+applications of categorization.
+Applications of deep learning are as follows:-
+A Deep Neural Network (DNN) is defined to be an Artificial
+Neural Network (ANN) with at least one hidden layer of units
+•
+Optical Character Recognition E.g. Scanning an image an
+extracting text from it.

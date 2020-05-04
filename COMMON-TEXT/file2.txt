@@ -1,0 +1,94 @@
+DEEP LEARNING IN BIG DATA
+Deep Learning and Big Data are two high-focus areas of data
+science. Deep learning algorithms extract complex data
+patterns, through a hierarchical learning process by analyzing
+and learning massive amounts of unsupervised data (Big
+Data). This makes it an extremely valuable tool for Big Data
+Analysers.
+Big Data has 4 important characteristics, namely, Volume,
+Variety, Velocity and Veracity. They are Learning algorithms
+are mainly concerned with issues related to Volume and
+Variety. Deep Learning algorithms deal with massive amounts
+of data, i. e. Volume whereas shallow learning algorithms fail
+to understand complex data patterns which are inevitably
+present in large data sets. Moreover, Deep Learning deals with
+analyzing raw data presented in different formats from
+different sources, i. e. Variety in Big Data. This minimizes the
+need for input from human experts to retrieve features from all
+new data typesfound in Big Data.
+Semantic Indexing, Data Tagging and Fast Information
+Retrieval are the main objectives of Deep Learning in Big
+Data. Consider data that is unstructured and unorganized.
+Haphazard storage of massive amounts of data cannot be used
+as a source of knowledge because looking through such data
+for specific topics of interest and retrieving all relevant and
+related information would be a tedious task. Using Semantic
+Indexing and Data Tagging, we identify patterns in the
+relationships between terms and concepts based on the
+principle that words used in the same context have similar
+meanings. The related words can then be stored close to each
+other in the memory. This helps us present data in a more
+comprehensive manner and helps in improving efficiency. A
+direct result of such a form of storage would be that search
+engines would work more quickly and efficiently.
+In the gaming industry, Artificial Intelligence could be useful
+as we could have a ‘gamebot’ stand as an opponent when a
+human player is not available. We could also have deep
+learning algorithms suggest how enemy spawns could be
+strategically placed in the arena to obtain different levels of
+difficulty. The military as well as aviation industries can use
+Artificial intelligence to sort information related to air traffic
+and then provide their pilots with the best techniques to avoid
+the traffic. A medical clinic can use Artificial Intelligence
+systems to organize bed schedules, staff rotations and provide
+medical information.
+5. CONCLUSION
+Deep learning techniques have been criticized because there is
+no way of representing causal relationships (such as between
+diseases and their symptoms), and the algorithms fail to
+acquire abstract ideas like “sibling” or “identical to.” Not
+much theory is available for most of the methods which is
+disadvantageous to beginners. Deep Learning is only a small
+step towards building machines which have human-like
+intelligence. Further advancements must be made in order to
+achieve our ultimate goal. Organizations like Google,
+Facebook, Microsoft and Baidu (a Chinese search engine) are
+buying into this technology and exploring various avenues
+available. For example, Facebook is using deep learning to
+automatically tag uploaded pictures. Google’s Deep Mind
+focusses on exploring new techniques in this area. Recent
+trends show that the interest in machine learning has only been
+growing with time and has sparked an interest in countries like
+India and Singapore. Thus it has emerged as one of the most
+promising fields of technology in recent times.
+6. REFERENCES
+4. DEEP LEARNING IN ARTIFICIAL
+INTELLIGENCE
+Artificial Intelligence is the theory and development of
+computers which are capable of performing tasks which
+humans can. Deep learning represents the rudimentary level of
+attempts towards achieving this task. It is utilized in visual
+perception, speech recognition, game playing, expert systems,
+decision-making, medicine, aviation and translation between
+languages.
+
+D. Bouchaffra, F. ykhef in “mathematical model for machine
+learning and pattern recognition”.
+Itamar Arel, Derek C. Rose and Thomas P Karnowski in” Deep
+Learning – A New Frontier in Artificial Intelligence Research”.
+Alexander J. Stimpson and Mary L. Cummings in “Accessing
+Intervention Timing in Computer-Based Education using
+Machine Learning Algorithms”.
+Li Deng, Geoffrey Hinton and Brian Kingsbury Microsoft
+Research, Redmond, WA, USA in “New Types of Deep
+Learning for Speech Recognition and Related Applications: An
+overview”.
+Maryam M Najafabadi, Flavio Villanustre, Taghi M
+Khoshgoftaar, Naeem Seliya Wald and Edin Muharemagic in
+“journal of big data”.
+Deep learning by Nando de Freitas
+An Introduction to Machine Learning Theory And Its
+Applications: A Visual Tutorial with Examples by Nick
+Mccrea
+A Deep Learning Tutorial: From Perceptrons To Deep
+Networks
